@@ -2,6 +2,8 @@ wget
 git
 build-essential
 ffmpeg
+default-jre
+default-jdk
 libsdl2-dev
 libsdl2-image-dev
 libsdl2-mixer-dev
