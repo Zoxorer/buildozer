@@ -8,7 +8,7 @@ libsdl2-mixer-dev
 libsdl2-ttf-dev
 libportmidi-dev
 libswscale-dev
-ibavformat-dev
+libavformat-dev
 libavcodec-dev
 zlib1g-dev
 libgstreamer1.0
